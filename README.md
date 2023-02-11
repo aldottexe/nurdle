@@ -1,4 +1,4 @@
-# Numurdle
+# Nurdle
 
 A silly game for guessing someone's phone number as if you were playing wordle.
 
