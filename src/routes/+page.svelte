@@ -50,6 +50,7 @@
    }
    input{
       position: absolute;
+      box-sizing: border-box;
       left: 0;
       opacity: 0%;
       width: 100vw;
