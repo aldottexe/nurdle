@@ -1,7 +1,7 @@
 <script>
    import Guess from './Guess.svelte';
    let guesses = [];
-   let key = '3023672036'
+   let key = '6102833742'
    let won = false;
 
    let val = '';

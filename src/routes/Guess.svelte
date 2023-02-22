@@ -11,6 +11,9 @@
       if (guessChar === key.charAt(i))
          return 'green';
 
+      if(guess.split(guessChar).length > key.split(guessChar).length)
+         return '';
+      
       if(key.indexOf(guessChar) != -1)
          return 'yellow';
 
